@@ -8,15 +8,15 @@
     {
 
         /// <summary>The prefix that the bot will use for the commands.</summary>
-        public const string Prefix = "!";
+        public const string Prefix = "x";
 
 
         /// <summary>The username of the owner of the bot.</summary>
-        public const string OwnerUsername = "Brammys#0001";
+        public const string OwnerUsername = "ExodusYT#5595";
 
 
         /// <summary>The id of the owner of this bot.</summary>
-        public const ulong OwnerId = 308707063993860116;
+        public const ulong OwnerId = 544273471988039691;
 
 
         /// <summary>The id of the client.</summary>
@@ -24,7 +24,7 @@
 
 
         /// <summary>The username of the client.</summary>
-        public const string BotUsername = "BotTemplate#8315";
+        public const string BotUsername = "TheJoker#8315";
 
 
         /// <summary>The string for a green status emoji.</summary>
@@ -64,10 +64,10 @@
 
 
         /// <summary>The number of seconds the user has to wait before using another command.</summary>
-        public const int SpamFilterSeconds = 3;
+        public const int SpamFilterSeconds = 2;
 
 
-        /// <summary>The amount of times the user has to be blocked byt he spam filter to get timeout.</summary>
+        /// <summary>The amount of times the user has to be blocked by the spam filter to get timeout.</summary>
         public const int SpamFilterTimeouts = 5;
 
 
